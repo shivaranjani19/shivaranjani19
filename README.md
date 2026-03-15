@@ -15,37 +15,24 @@
 - 🌱 Currently learning **Advanced Java**
 
 ---
-
 ## 🛠️ Tech Stack
 
-<h3 align="center">👨‍💻 Languages</h3>
+<div align="center">
 
-<p align="center">
+### 👨‍💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-</p>
-
-<h3 align="center">🌐 Frontend</h3>
-
-<p align="center">
+### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
-
-<h3 align="center">🛠 Tools</h3>
-
-<p align="center">
+### 🛠 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -53,16 +40,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
-
-<h3 align="center">🧠 Core Strengths</h3>
-
-<p align="center">
+### 🧠 Core Strengths
 
 💡 Problem Solver  
 🚀 Building Real World Projects  
 
-</p>
+</div>
 ---
 
 ### 📜 Certifications
