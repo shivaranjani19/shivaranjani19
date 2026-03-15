@@ -12,7 +12,7 @@
 - 🎓 Electronics and Communication Engineering Student  
 - 💻 Interested in **Java Full Stack Development**  
 - 🚀 Passionate about building real-world projects  
-- 🌱 Currently learning **Advanced Java,SpringBoot**
+- 🌱 Currently learning **Advanced Java**
 
 ---
 
