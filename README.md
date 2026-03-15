@@ -9,10 +9,10 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Interested in **Full Stack Development**  
+- 🎓 Electronics and Communication Engineering Student  
+- 💻 Interested in **Java Full Stack Development**  
 - 🚀 Passionate about building real-world projects  
-- 🌱 Currently learning **React & Advanced Java**
+- 🌱 Currently learning **Advanced Java,SpringBoot**
 
 ---
 
