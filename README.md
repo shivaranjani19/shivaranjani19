@@ -1,4 +1,4 @@
-# Hi, I'm Shiva Ranjani 👋
+# Hi there, I'm Shiva Ranjani 👋
 
 🎓Electronics and Communication Engineering Student  
 💻 Interested in Full Stack Development  
