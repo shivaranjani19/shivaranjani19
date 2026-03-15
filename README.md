@@ -18,14 +18,16 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<h3 align="center">👨‍💻 Languages</h3>
+
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </p>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
+
 <p align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,14 +35,16 @@
 
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
+
 <p align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
-### 🛠 Tools
+<h3 align="center">🛠 Tools</h3>
+
 <p align="center">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -51,14 +55,14 @@
 
 </p>
 
-### 🧠 Core Strengths
+<h3 align="center">🧠 Core Strengths</h3>
+
 <p align="center">
 
 💡 Problem Solver  
 🚀 Building Real World Projects  
 
 </p>
-
 ---
 
 ### 📜 Certifications
