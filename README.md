@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Java Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Developer;HTML+CSS+JavaScript;React+Learner;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+HTML+CSS+MySQL;Problem Solver;Building Real World Projects;Problem+Solver"/>
 </p>
 
 ---
