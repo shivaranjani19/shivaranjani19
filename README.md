@@ -1,8 +1,6 @@
 # Hi there, I'm Shiva Ranjani 👋
 
-🎓Electronics and Communication Engineering Student  
-💻 Interested in Full Stack Development  
-🚀 Passionate about building real-world projects
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF71D&width=435&lines=Java+developer+%7C+Building+Real+World+Projects)](https://git.io/typing-svg)
 
 ---
 
