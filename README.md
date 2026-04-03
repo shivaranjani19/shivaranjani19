@@ -19,57 +19,46 @@
 
 ### 🛠️ Tech Stack
 
-<h3 align="center">🛠️ Tech Stack</h3>
+
+<h3 align="center">🧊 Tech Stack</h3>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-<b>👨‍💻 Languages</b><br><br>
+<b>Languages</b><br>
+━━━━━━━━━━━━━━<br>
 Java
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
+<br>
 
 <p align="center">
-<b>⚙️ Backend</b><br><br>
+<b>Backend</b><br>
+━━━━━━━━━━━━━━<br>
 Spring Boot • Spring Data JPA • Hibernate • Spring JDBC
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
+<br>
 
 <p align="center">
-<b>🗄️ Databases</b><br><br>
+<b>Databases</b><br>
+━━━━━━━━━━━━━━<br>
 MySQL • PostgreSQL
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
+<br>
 
 <p align="center">
-<b>🌐 Frontend</b><br><br>
+<b>Frontend</b><br>
+━━━━━━━━━━━━━━<br>
 HTML • CSS • JavaScript • Chart.js
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
+<br>
 
 <p align="center">
-<b>🛠️ Tools</b><br><br>
+<b>Tools</b><br>
+━━━━━━━━━━━━━━<br>
 Git • GitHub • Maven • Postman • IntelliJ IDEA
 </p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
 ---
 
 ### 🚀 Projects
