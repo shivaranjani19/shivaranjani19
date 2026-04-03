@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00F7FF"/>
 </p>
 
 <br>
