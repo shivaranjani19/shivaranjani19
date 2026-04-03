@@ -19,45 +19,61 @@
 
 ### 🛠️ Tech Stack
 
-
-<h3 align="center">🧊 Tech Stack</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 
 <p align="center">
-<b>Languages</b><br>
-━━━━━━━━━━━━━━<br>
-Java
+<img src="https://img.shields.io/badge/Languages-0A0A0A?style=for-the-badge&logo=code&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=00F7FF"/>
 </p>
 
 <br>
 
 <p align="center">
-<b>Backend</b><br>
-━━━━━━━━━━━━━━<br>
-Spring Boot • Spring Data JPA • Hibernate • Spring JDBC
+<img src="https://img.shields.io/badge/Backend-0A0A0A?style=for-the-badge&logo=springboot&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/JPA-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=00F7FF"/>
 </p>
 
 <br>
 
 <p align="center">
-<b>Databases</b><br>
-━━━━━━━━━━━━━━<br>
-MySQL • PostgreSQL
+<img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00F7FF"/>
 </p>
 
 <br>
 
 <p align="center">
-<b>Frontend</b><br>
-━━━━━━━━━━━━━━<br>
-HTML • CSS • JavaScript • Chart.js
+<img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
 </p>
 
 <br>
 
 <p align="center">
-<b>Tools</b><br>
-━━━━━━━━━━━━━━<br>
-Git • GitHub • Maven • Postman • IntelliJ IDEA
+<img src="https://img.shields.io/badge/Tools-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=00F7FF"/>
 </p>
 ---
 
