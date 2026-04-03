@@ -19,8 +19,33 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,spring,mysql,git,github,vscode" />
+
+<b>👨‍💻 Languages</b><br>
+Java  
+
+<br>
+
+<b>⚙️ Backend Frameworks & Libraries</b><br>
+Spring Boot • Spring Data JPA • Hibernate • Spring JDBC  
+
+<br>
+
+<b>🗄️ Databases</b><br>
+MySQL • PostgreSQL  
+
+<br>
+
+<b>🌐 Frontend</b><br>
+HTML • CSS • JavaScript • Chart.js  
+
+<br>
+
+<b>🛠️ Tools</b><br>
+Git • GitHub • Maven • Postman • IntelliJ IDEA  
+
 </p>
 
 ---
