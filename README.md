@@ -19,38 +19,46 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Languages-111827?style=for-the-badge&logo=code&logoColor=white"/>
-<br><br>
+</p>
+
+<p align="center">
 Java
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=springboot&logoColor=green"/>
-<br><br>
+</p>
+
+<p align="center">
 Spring Boot • Spring Data JPA • Hibernate • Spring JDBC
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Databases-111827?style=for-the-badge&logo=postgresql&logoColor=blue"/>
-<br><br>
+</p>
+
+<p align="center">
 MySQL • PostgreSQL
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=html5&logoColor=orange"/>
-<br><br>
+</p>
+
+<p align="center">
 HTML • CSS • JavaScript • Chart.js
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Tools-111827?style=for-the-badge&logo=github&logoColor=white"/>
-<br><br>
-Git • GitHub • Maven • Postman • IntelliJ IDEA
+</p>
 
+<p align="center">
+Git • GitHub • Maven • Postman • IntelliJ IDEA
 </p>
 
 ---
