@@ -23,28 +23,33 @@
 
 <p align="center">
 
-<b>👨‍💻 Languages</b><br>
-Java  
+<img src="https://img.shields.io/badge/Languages-111827?style=for-the-badge&logo=code&logoColor=white"/>
+<br><br>
+Java
 
-<br>
+<br><br>
 
-<b>⚙️ Backend Frameworks & Libraries</b><br>
-Spring Boot • Spring Data JPA • Hibernate • Spring JDBC  
+<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=springboot&logoColor=green"/>
+<br><br>
+Spring Boot • Spring Data JPA • Hibernate • Spring JDBC
 
-<br>
+<br><br>
 
-<b>🗄️ Databases</b><br>
-MySQL • PostgreSQL  
+<img src="https://img.shields.io/badge/Databases-111827?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+<br><br>
+MySQL • PostgreSQL
 
-<br>
+<br><br>
 
-<b>🌐 Frontend</b><br>
-HTML • CSS • JavaScript • Chart.js  
+<img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=html5&logoColor=orange"/>
+<br><br>
+HTML • CSS • JavaScript • Chart.js
 
-<br>
+<br><br>
 
-<b>🛠️ Tools</b><br>
-Git • GitHub • Maven • Postman • IntelliJ IDEA  
+<img src="https://img.shields.io/badge/Tools-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+Git • GitHub • Maven • Postman • IntelliJ IDEA
 
 </p>
 
