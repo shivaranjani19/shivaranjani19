@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivaranjani19&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shivaranjani19?label=FOLLOWERS&style=for-the-badge&color=orange" />
   <img src="https://img.shields.io/github/stars/shivaranjani19?label=STARS&style=for-the-badge&color=yellow" />
 </p>
 
