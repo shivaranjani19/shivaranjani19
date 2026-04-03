@@ -1,45 +1,47 @@
 <h1 align="center">Hi 👋, I'm Shiva Ranjani</h1>
 <h3 align="center">🚀 Java Developer | Aspiring Software Engineer</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shiva+Ranjani;Java+Developer;Future+Software+Engineer+💻;I+Build+Cool+Things+✨">
+</h1>
+
+<h3 align="center">💖 Java Full Stack Developer | Problem Solver 💖</h3>
+
+---
+
+### 💫 About Me
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Learner;Problem+Solver;Future+Software+Engineer&center=true&width=500&height=45">
+✨ Aspiring Software Engineer passionate about building impactful applications <br>
+💻 Strong in Java, problem-solving & full-stack development <br>
+🚀 Currently working on real-world projects <br>
+🎯 Goal: Crack a top product-based company
 </p>
 
 ---
 
-### 🌸 About Me
-
-<p align="center">
-Aspiring Software Engineer with a strong foundation in programming and problem-solving.<br>
-Passionate about building scalable applications and contributing to impactful software solutions.
-</p>
-
----
-
-### ✨ Tech Stack
+### ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/JDBC-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-ff69b4?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/IntelliJ-0A0A0A?style=for-the-badge&logo=intellijidea&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Eclipse-0A0A0A?style=for-the-badge&logo=eclipseide&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
@@ -47,63 +49,43 @@ Passionate about building scalable applications and contributing to impactful so
 
 ### 🚀 Projects
 
-#### 🛒 E-Commerce Website (Apr 2026 – Present)
-- Developing a full-stack web application for product catalog and user management  
-- Implementing authentication & session management  
-- CRUD operations for products and orders  
-- MySQL integration for database handling  
-- Deployed using Apache Tomcat  
+💖 **E-Commerce Website**  
+✨ Full-stack app with authentication & product management  
+✨ MySQL integration + CRUD operations  
+✨ Deployed using Apache Tomcat  
 
-#### 📚 Library Management System (Jan 2026 – Mar 2026)
-- Web-based system for managing books and transactions  
-- Admin authentication for secure access  
-- Features: add, view, borrow, return, delete books  
-- MySQL integration for storage  
-- Deployed on Apache Tomcat  
+<br>
+
+💖 **Library Management System**  
+✨ Book tracking & admin authentication  
+✨ CRUD operations for library system  
+✨ MySQL + Servlets  
 
 ---
 
 ### 🏆 Certifications
 
-- 🥇 Java – HackerRank  
-- 🥇 CSS – HackerRank  
-- 🎓 Build Dynamic User Interfaces – Google (Coursera)  
+🏅 Java – HackerRank  
+🏅 CSS – HackerRank  
+🎓 Google UI Course (Coursera)
 
 ---
 
 ### ⚡ Activities
 
-#### 🧠 Problem Solving
-- Solved 50+ problems on LeetCode & HackerRank  
-- Strong in Core Java, DSA & logical thinking  
-
-#### 🧪 IEEE Hackathon 2025
-- Built smart agriculture prototype using sensors  
-- Real-time monitoring for field optimization  
-
-#### 💡 Smart India Hackathon (2024, 2025)
-- Proposed drug monitoring system  
-- Selected at college level (2024)  
-
-#### 🎤 Technical Activities
-- Participated in paper presentations & workshops  
-- Improved communication & technical skills  
-
----
-
-### 🎓 Education
-
-- 🎓 B.E ECE – PSNA College of Engineering (2023–2027)  
-- 🏫 HSC – Sri Aurobindo Mira School (2023)  
+💡 Solved 50+ problems (LeetCode & HackerRank)  
+🚀 IEEE Hackathon – Smart agriculture prototype  
+🏆 Smart India Hackathon participant (2024, 2025)  
+🎤 Technical presentations & workshops  
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:shivaranjanik1905@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/shivaranjanik/">LinkedIn</a> •
-<a href="https://shivaranjanik.netlify.app/">Portfolio</a>
+<a href="mailto:shivaranjanik1905@gmail.com">💌 Email</a> •
+<a href="https://www.linkedin.com/in/shivaranjanik/">💼 LinkedIn</a> •
+<a href="https://shivaranjanik.netlify.app/">🌐 Portfolio</a>
 </p>
 
 ---
@@ -111,12 +93,12 @@ Passionate about building scalable applications and contributing to impactful so
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
 </p>
 
 ---
 
 <p align="center">
-✨ "Consistency beats motivation." ✨
+💖 ✨ "Keep building. Keep growing." ✨ 💖
 </p>
