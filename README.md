@@ -19,7 +19,6 @@
 
 ### 🛠️ Tech Stack
 
-<h3 align="center">✨ Tech Stack ✨</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Languages-0A0A0A?style=for-the-badge&logo=code&logoColor=00F7FF"/>
