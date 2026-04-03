@@ -22,43 +22,52 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Languages-111827?style=for-the-badge&logo=code&logoColor=white"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
+<b>👨‍💻 Languages</b><br><br>
 Java
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=springboot&logoColor=green"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
+<b>⚙️ Backend</b><br><br>
 Spring Boot • Spring Data JPA • Hibernate • Spring JDBC
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Databases-111827?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
+<b>🗄️ Databases</b><br><br>
 MySQL • PostgreSQL
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=html5&logoColor=orange"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
+<b>🌐 Frontend</b><br><br>
 HTML • CSS • JavaScript • Chart.js
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tools-111827?style=for-the-badge&logo=github&logoColor=white"/>
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
+<b>🛠️ Tools</b><br><br>
 Git • GitHub • Maven • Postman • IntelliJ IDEA
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ---
