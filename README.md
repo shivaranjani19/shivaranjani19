@@ -49,12 +49,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaranjani19&show_icons=true&theme=tokyonight)
-
+  <img src="https://komarev.com/ghpvc/?username=shivaranjani19&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
