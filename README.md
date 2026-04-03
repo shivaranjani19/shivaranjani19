@@ -56,10 +56,12 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaranjani19&theme=tokyo-night"/> </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaranjani19&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 ### 📫 Connect with me
