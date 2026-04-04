@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Java Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Java+%7C+HTML+%7C+CSS+%7C+MySQL;Problem+Solver;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Java+%7C+HTML+%7C+CSS+%7C+MySQL;Problem+Solver;Building+Real+World+Projects"/>
 </p>
 
 ---
@@ -70,10 +70,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaranjani19&theme=tokyonight" />
 </p>
+
 ---
 
-### 📫 Connect with me
+<h2 align="center">🌐 Connect With Me</h2>
 
-- LinkedIn  
-- HackerRank  
-- Email
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/shivaranjanik">LinkedIn</a> •
+  🧠 <a href="https://www.hackerrank.com/shivaranjanik">HackerRank</a> •
+  💻 <a href="https://leetcode.com/u/ShivaranjaniKaruppasamy/">LeetCode</a> •
+  📧 <a href="shivaranjanik1905@gmail.com">Email</a>
+</p>
