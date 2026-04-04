@@ -78,48 +78,37 @@
 
 <table>
   <tr>
-    <td align="right">
-      📅 <b>2022</b><br/>
-      🎓 Started Engineering (ECE)
-    </td>
-    <td width="50" align="center">⬇️</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td width="50" align="center">⬇️</td>
-    <td align="left">
-      💻 Learned Java Basics<br/>
-      🌐 HTML & CSS
+    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
+      🔵 <b>2022</b><br/>
+      🎓 Engineering (ECE)
     </td>
   </tr>
 
-  <tr>
-    <td align="right">
-      📅 <b>2024</b><br/>
-      🏆 HackerRank Certifications
-    </td>
-    <td width="50" align="center">⬇️</td>
-    <td></td>
-  </tr>
+  <tr><td align="center">⬇️</td></tr>
 
   <tr>
-    <td></td>
-    <td width="50" align="center">⬇️</td>
-    <td align="left">
-      ☕ Java Certification<br/>
-      🎨 CSS Certification
+    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
+      🟢 <b>2023</b><br/>
+      💻 Java + Web Basics
     </td>
   </tr>
 
+  <tr><td align="center">⬇️</td></tr>
+
   <tr>
-    <td align="right">
-      📅 <b>2025</b><br/>
+    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
+      🟣 <b>2024</b><br/>
+      🏆 Certifications (Java, CSS)
+    </td>
+  </tr>
+
+  <tr><td align="center">⬇️</td></tr>
+
+  <tr>
+    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
+      🟡 <b>2025</b><br/>
       🚀 Full Stack Development
     </td>
-    <td width="50" align="center">⬇️</td>
-    <td></td>
   </tr>
 
 </table>
