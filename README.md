@@ -42,6 +42,8 @@
 
 </div>
 
+---
+
 ### 📜 Certifications
 
 - HackerRank Java (Basic)
