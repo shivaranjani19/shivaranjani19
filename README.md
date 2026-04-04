@@ -57,10 +57,6 @@
   </a>
 </p>
 
-<p align="center">
-  💡 Click the badges to view my certificates!
-</p>
-
 ---
 
 ### 📈 Contribution
@@ -70,50 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaranjani19&theme=tokyonight" />
 </p>
 
----
-
-<h2 align="center">🚀 My Journey</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
-      🔵 <b>2022</b><br/>
-      🎓 Engineering (ECE)
-    </td>
-  </tr>
-
-  <tr><td align="center">⬇️</td></tr>
-
-  <tr>
-    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
-      🟢 <b>2023</b><br/>
-      💻 Java + Web Basics
-    </td>
-  </tr>
-
-  <tr><td align="center">⬇️</td></tr>
-
-  <tr>
-    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
-      🟣 <b>2024</b><br/>
-      🏆 Certifications (Java, CSS)
-    </td>
-  </tr>
-
-  <tr><td align="center">⬇️</td></tr>
-
-  <tr>
-    <td align="center" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px;">
-      🟡 <b>2025</b><br/>
-      🚀 Full Stack Development
-    </td>
-  </tr>
-
-</table>
-
-</div>
 
 ---
 
