@@ -44,16 +44,22 @@
 
 ---
 
-### 📜 Certifications
-
-[![Java Certificate](https://img.shields.io/badge/Java-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/ae2a31cc6667)
-
-[![CSS Certificate](https://img.shields.io/badge/CSS-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/YOUR_CSS_LINK)
----
+<h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivaranjani19&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/shivaranjani19?label=STARS&style=for-the-badge&color=yellow" />
+  <a href="https://www.hackerrank.com/certificates/ae2a31cc6667">
+    <img src="https://img.shields.io/badge/☕%20Java%20Certification-HackerRank-00F7FF?style=for-the-badge&logo=java&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_CSS_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/🎨%20CSS%20Certification-HackerRank-FF6F00?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Click the badges to view my certificates!
 </p>
 
 ---
