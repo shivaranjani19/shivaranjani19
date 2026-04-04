@@ -46,10 +46,9 @@
 
 ### 📜 Certifications
 
-[![Java](https://img.shields.io/badge/Java-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/https://www.hackerrank.com/certificates/ae2a31cc6667)
+[![Java Certificate](https://img.shields.io/badge/Java-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/ae2a31cc6667)
 
-[![CSS](https://img.shields.io/badge/CSS-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/your-css-link)
-  
+[![CSS Certificate](https://img.shields.io/badge/CSS-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/YOUR_CSS_LINK)
 ---
 
 <p align="center">
