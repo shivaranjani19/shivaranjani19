@@ -46,9 +46,10 @@
 
 ### 📜 Certifications
 
-- HackerRank Java (Basic)
-- CSS Certification
+[![Java](https://img.shields.io/badge/Java-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/https://www.hackerrank.com/certificates/ae2a31cc6667)
 
+[![CSS](https://img.shields.io/badge/CSS-HackerRank-00F7FF?style=for-the-badge)](https://www.hackerrank.com/certificates/your-css-link)
+  
 ---
 
 <p align="center">
