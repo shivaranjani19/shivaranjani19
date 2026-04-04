@@ -77,3 +77,11 @@
   💻 <a href="https://leetcode.com/u/ShivaranjaniKaruppasamy/">LeetCode</a> •
   📧 <a href="shivaranjanik1905@gmail.com">Email</a>
 </p>
+
+---
+
+<p align="center">
+
+💡 ***"First, solve the problem. Then, write the code."*** — John Johnson  
+
+</p>
