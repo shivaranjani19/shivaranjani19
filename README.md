@@ -72,6 +72,62 @@
 
 ---
 
+<h2 align="center">🚀 My Journey</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="right">
+      📅 <b>2022</b><br/>
+      🎓 Started Engineering (ECE)
+    </td>
+    <td width="50" align="center">⬇️</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td width="50" align="center">⬇️</td>
+    <td align="left">
+      💻 Learned Java Basics<br/>
+      🌐 HTML & CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right">
+      📅 <b>2024</b><br/>
+      🏆 HackerRank Certifications
+    </td>
+    <td width="50" align="center">⬇️</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td width="50" align="center">⬇️</td>
+    <td align="left">
+      ☕ Java Certification<br/>
+      🎨 CSS Certification
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right">
+      📅 <b>2025</b><br/>
+      🚀 Full Stack Development
+    </td>
+    <td width="50" align="center">⬇️</td>
+    <td></td>
+  </tr>
+
+</table>
+
+</div>
+
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
