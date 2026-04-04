@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CSS_CERTIFICATE_LINK">
+  <a href="https://www.hackerrank.com/certificates/08c1994da4fe">
     <img src="https://img.shields.io/badge/🎨%20CSS%20Certification-HackerRank-FF6F00?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
 </p>
