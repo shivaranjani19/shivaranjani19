@@ -2,22 +2,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Shivaranjani%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast;Product+Focused+Engineer;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Backend+Developer;Product-Focused+Engineer;Building+Scalable+Applications"/>
 
 <br>
 
 ![](https://img.shields.io/badge/B.E-Electronics%20and%20Communication-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/PSNA%20College%20of%20Engineering-purple?style=for-the-badge)
-![](https://img.shields.io/badge/India-Tamil%20Nadu-indigo?style=for-the-badge)
-![](https://img.shields.io/badge/Madurai-India-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/PSNA%20College%20of%20Engineering%20and%20Technology-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Madurai-Tamil%20Nadu-indigo?style=for-the-badge)
+![](https://img.shields.io/badge/India-Software%20Engineering-blueviolet?style=for-the-badge)
 
 <br>
 
-<a href="https://shivaranjanik.vercel.app">
+<a href="https://shivaranjanik.netlify.app//">
 <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ShivaranjaniK">
+<a href="shivaranjanik">
 <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -25,34 +25,36 @@
 <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ShivaranjaniK">
+<a href="https://github.com/shivaranjani19">
 <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=ShivaranjaniK&style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/followers/ShivaranjaniK?style=for-the-badge&color=7F00FF)
-![](https://img.shields.io/github/stars/ShivaranjaniK?style=for-the-badge&color=4B0082)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6A0DAD)
+
+![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7F00FF)
 
 </div>
 
 ---
 
-# About
+# About Me
 
-Aspiring **Software Engineer** and **Java Full Stack Developer** with a strong foundation in software engineering principles, object-oriented programming, backend architecture, databases, and modern web technologies.
+Aspiring **Software Engineer** and **Java Full Stack Developer** with a strong foundation in Java, SQL, databases, and modern web technologies. Passionate about designing scalable and efficient applications while following software engineering best practices, clean coding principles, and product-focused development approaches.
 
-Focused on building scalable products with clean code practices and engineering excellence. Passionate about AI, Machine Learning, and intelligent systems while continuously improving problem-solving and product development skills.
+I enjoy building real-world applications that solve practical problems and continuously improve my problem-solving abilities through development projects, hackathons, and coding practice.
+
+My primary interests include backend development, full-stack application development, REST API design, database management, and creating production-ready software solutions.
 
 ### Open To
 
 - Software Engineering Roles
+- Java Developer Roles
 - Full Stack Development
 - Backend Engineering
-- AI & ML Projects
-- Open Source Contributions
 - Product-Based Companies
+- Open Source Contributions
 
 ---
 
@@ -60,104 +62,184 @@ Focused on building scalable products with clean code practices and engineering 
 
 ## Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-</p>
-
-## Frontend
+</div>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-
-</p>
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,hibernate"/>
-
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea,eclipse"/>
+<img src="https://img.shields.io/badge/SQL-4B0082?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# AI / ML Expertise
+## Frontend Development
 
-| Domain | Proficiency | Details |
-|----------|------------|---------|
-| Machine Learning | Intermediate | Supervised Learning, Model Evaluation |
-| Deep Learning | Beginner | Neural Networks |
-| Generative AI | Learning | LLMs, Prompt Engineering |
-| Data Structures | Strong | Problem Solving |
-| Backend AI Integration | Intermediate | REST APIs |
-| Full Stack AI Applications | Intermediate | Product Engineering |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Material_UI-7F00FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_APIs-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JPA-7F00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JDBC-4B0082?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</div>
+
+---
+
+## Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,maven"/>
+
+</div>
 
 ---
 
 # Featured Projects
-
 <details>
-<summary><b>Full Stack E-Commerce Platform</b></summary>
+<summary><b>🛒 Full Stack E-Commerce Web Application</b></summary>
 
-### Enterprise Scale Shopping Application
+<br>
+
+### Overview
+
+Developed a complete Full Stack E-Commerce Platform using Java, Spring Boot, React.js, and MySQL to provide a seamless online shopping experience.
+
+The application supports secure authentication, role-based access control, product management, online payments, and order tracking. The project was designed following modern software engineering practices with a focus on scalability, maintainability, and responsive user experience.
+
+### Key Features
+
+- Secure JWT Authentication
+- Role-Based Access Control (Admin & User)
+- Product Management System
+- Shopping Cart Functionality
+- Search and Category Filtering
+- Order Tracking System
+- Online Payment Integration
+- Automated Email Notifications
+- Responsive User Interface
+
+### Technical Implementation
+
+- Developed backend services using Spring Boot.
+- Implemented RESTful APIs for communication between frontend and backend.
+- Integrated Hibernate and Spring Data JPA for database operations.
+- Used MySQL for persistent data storage.
+- Implemented JWT-based authentication for secure access.
+- Integrated Razorpay Payment Gateway for online transactions.
+- Configured JavaMail API for order confirmation emails.
+- Built responsive frontend interfaces using React.js, Tailwind CSS, and Material UI.
+
+### Project Details
 
 | Category | Details |
 |-----------|---------|
-| Stack | Java, Spring Boot, React, MySQL |
-| Scale | Multi-user |
-| Performance | Optimized APIs |
-| Security | JWT Authentication |
-| Impact | Complete Commerce System |
-| Repository | Private |
+| Project Type | Full Stack Web Application |
+| Frontend | React.js, Tailwind CSS, Material UI |
+| Backend | Spring Boot |
+| Database | MySQL |
+| ORM | Hibernate, JPA |
+| Authentication | JWT |
+| Payment Gateway | Razorpay |
+| Email Service | JavaMail API |
+| Architecture | REST APIs |
+| Status | In Progress |
 
-Professional e-commerce platform with role-based authentication, Razorpay integration, order tracking, category filtering and responsive UI.
+### Outcome
+
+This project strengthened my understanding of full-stack development, authentication mechanisms, database management, API integration, payment systems, and modern software architecture principles.
 
 </details>
 
-<details>
-<summary><b>Library Management System</b></summary>
+---
 
-### Web-Based Management System
+<details>
+<summary><b>📚 Library Management System</b></summary>
+
+<br>
+
+### Overview
+
+Developed a web-based Library Management System to streamline book management and borrowing operations within a library environment.
+
+The application allows administrators to manage books efficiently while maintaining records of issued and returned books through a centralized system.
+
+### Key Features
+
+- Secure Admin Authentication
+- Add New Books
+- View Available Books
+- Borrow Book Module
+- Return Book Module
+- Delete Book Records
+- Database Connectivity
+- Web-Based User Interface
+
+### Technical Implementation
+
+- Developed using Java and Servlet technologies.
+- Connected the application with MySQL database for data persistence.
+- Implemented CRUD operations for book management.
+- Designed modules for book issue and return management.
+- Configured Apache Tomcat as the deployment server.
+- Implemented authentication mechanisms for administrator access.
+
+### Project Details
 
 | Category | Details |
 |-----------|---------|
-| Stack | Java, Servlet, MySQL |
-| Scale | Academic |
-| Performance | Efficient Queries |
-| Security | Admin Authentication |
-| Impact | Resource Management |
-| Repository | GitHub |
+| Project Type | Web Application |
+| Technologies | Java, Servlets |
+| Database | MySQL |
+| Server | Apache Tomcat |
+| Authentication | Admin Login |
+| Operations | CRUD |
+| Status | Completed |
 
-Developed modules for adding, borrowing, returning and deleting books with Apache Tomcat deployment.
+### Outcome
 
-</details>
-
-<details>
-<summary><b>Smart Drug Monitoring System</b></summary>
-
-### Smart India Hackathon Project
-
-| Category | Details |
-|-----------|---------|
-| Stack | Web Technologies |
-| Scale | National Competition |
-| Performance | Real-Time Tracking |
-| Security | Controlled Distribution |
-| Impact | Prevent Drug Misuse |
-| Repository | Prototype |
-
-Proposed a digital monitoring platform to track medicine distribution and improve healthcare transparency.
+This project enhanced my knowledge of Java web development, database integration, CRUD operations, server deployment, and backend application development.
 
 </details>
 
@@ -169,37 +251,89 @@ Proposed a digital monitoring platform to track medicine distribution and improv
 
 **June 2025 – July 2025**
 
-Worked on responsive web applications and UI/UX optimization.
+Worked as a Front-End Developer Intern and gained hands-on experience in building responsive web applications, improving user interfaces, and implementing JavaScript-based functionalities.
 
-### Scope of Work
+During the internship, I worked on multiple projects that strengthened my understanding of frontend development, responsive design principles, API integration, and user experience optimization.
 
-- Responsive Landing Page
-- Portfolio Website
-- Stopwatch Application
-- Tic-Tac-Toe Game
-- Weather Application using APIs
+### Responsibilities
 
-### Skills
+- Designed responsive web interfaces.
+- Developed interactive web applications.
+- Implemented JavaScript functionalities.
+- Optimized layouts for mobile and desktop devices.
+- Integrated external APIs into web applications.
+- Improved UI/UX through modern design practices.
 
-`HTML`
-`CSS`
+### Projects Completed During Internship
+
+#### Responsive Landing Page
+
+Developed a modern and responsive landing page using HTML, CSS, and JavaScript with a focus on clean design, usability, and mobile responsiveness.
+
+#### Personal Portfolio Website
+
+Designed and developed a personal portfolio website to showcase projects, skills, certifications, and professional information while ensuring intuitive navigation and responsiveness.
+
+#### Stopwatch Web Application
+
+Built a fully functional stopwatch application supporting:
+
+- Start Functionality
+- Pause Functionality
+- Reset Functionality
+- Accurate Time Tracking
+
+#### Tic-Tac-Toe Game
+
+Created an interactive Tic-Tac-Toe game featuring:
+
+- Dynamic Game Logic
+- User Interaction Handling
+- Winner Detection
+- Responsive Design
+
+#### Weather Application
+
+Developed a weather forecasting application using API integration to display:
+
+- Real-Time Weather Information
+- Temperature Details
+- Weather Conditions
+- Dynamic Data Retrieval
+
+### Skills Gained
+
+`HTML5`
+
+`CSS3`
+
 `JavaScript`
-`Responsive Design`
+
+`Responsive Web Design`
+
 `API Integration`
+
+`UI/UX Design`
+
+`Problem Solving`
+
+`Frontend Development`
 
 ---
 
+# Achievements
 # Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |-------------|---------|
-| LeetCode | 50+ Problems Solved |
-| Smart India Hackathon | Participant (2024,2025) |
-| IEEE Hackathon | Participant |
-| Problem Solving | Continuous Learning |
-| Software Engineering | Product Development Focus |
+| Problem Solving | Solved 50+ problems across coding platforms |
+| Smart India Hackathon | Participant – 2024 |
+| Smart India Hackathon | Participant – 2025 |
+| IEEE 7-Hour Hackathon | Participant |
+| Software Development | Built Full Stack and Web-Based Applications |
+| Continuous Learning | Consistently improving Java, Spring Boot, React.js, and DSA skills |
 
 </div>
 
@@ -207,27 +341,16 @@ Worked on responsive web applications and UI/UX optimization.
 
 # Certifications
 
-### AWS
+<div align="center">
 
-![](https://img.shields.io/badge/AWS-Learning-6A0DAD?style=for-the-badge)
+| Certification | Provider |
+|---------------|----------|
+| Java Certification | HackerRank |
+| CSS Certification | HackerRank |
+| Build Dynamic User Interfaces for Websites | Google (Coursera) |
+| Programming in Java | NPTEL |
 
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-purple?style=for-the-badge)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-indigo?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blueviolet?style=for-the-badge)
-
-### HackerRank
-
-![](https://img.shields.io/badge/Java-HackerRank-4B0082?style=for-the-badge)
-
-![](https://img.shields.io/badge/CSS-HackerRank-7F00FF?style=for-the-badge)
+</div>
 
 ---
 
@@ -235,20 +358,12 @@ Worked on responsive web applications and UI/UX optimization.
 
 <div align="center">
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Premium_Profile-6A0DAD?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/ShivaranjaniKaruppasamy/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7F00FF?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-4B0082?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-indigo?style=for-the-badge"/>
+<a href="https://www.hackerrank.com/profile/shivaranjanik">
+<img src="https://img.shields.io/badge/HackerRank-Certified-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
@@ -259,41 +374,9 @@ Worked on responsive web applications and UI/UX optimization.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivaranjaniK&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaranjaniK&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaranjaniK&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivaranjaniK&theme=tokyonight&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaranjaniK&theme=tokyo-night"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShivaranjaniK/ShivaranjaniK/output/github-contribution-grid-snake-dark.svg"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -304,46 +387,45 @@ Worked on responsive web applications and UI/UX optimization.
 ```yaml
 Learning:
   - Spring Boot
-  - Microservices
-  - AI & Machine Learning
-  - System Design
+  - React.js
+  - Backend Development
+  - Data Structures and Algorithms
 
 Building:
-  - Full Stack E-Commerce Platform
-  - Portfolio Website
+  - Full Stack E-Commerce Web Application
 
 Exploring:
-  - Generative AI
-  - LLMs
-  - Cloud Technologies
+  - REST APIs
+  - Software Architecture
+  - Scalable Web Applications
 
 Open To:
   - Software Engineering Roles
-  - Internships
-  - Open Source
-  - Product Companies
-````
+  - Java Developer Roles
+  - Full Stack Development
+  - Product-Based Companies
+```
 
 ---
 
-# Connect
+# Connect With Me
 
 <div align="center">
 
 <a href="mailto:shivaranjanik1905@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ShivaranjaniK">
-<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ShivaranjaniK">
-<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://shivaranjanik.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-indigo?style=for-the-badge"/>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
@@ -352,8 +434,12 @@ Open To:
 
 <div align="center">
 
-### "Engineering scalable solutions with clean code and continuous innovation."
+### Software Engineer • Java Full Stack Developer • Backend Developer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:7F00FF"/>
+*"Engineering scalable solutions through clean code, continuous learning, and practical innovation."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4B0082,50:6A0DAD,100:7F00FF"/>
 
 </div>
