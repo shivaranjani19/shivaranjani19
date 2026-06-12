@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/B.E-Electronics%20and%20Communication-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/PSNA%20College%20of%20Engineering%20and%20Technology-purple?style=for-the-badge)
 ![](https://img.shields.io/badge/Madurai-Tamil%20Nadu-indigo?style=for-the-badge)
-![](https://img.shields.io/badge/India-Software%20Engineering-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/India-blueviolet?style=for-the-badge)
 
 <br>
 
