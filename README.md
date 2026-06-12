@@ -74,17 +74,9 @@ My primary interests include backend development, full-stack application develop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 
 </div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-6A0DAD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Material_UI-7F00FF?style=for-the-badge"/>
-
-</p>
 
 ---
 
@@ -122,11 +114,7 @@ My primary interests include backend development, full-stack application develop
 
 ## Tools & Platforms
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,maven"/>
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse"/>
 
 ---
 
