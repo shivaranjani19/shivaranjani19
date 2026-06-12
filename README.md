@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Shivaranjani%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -358,4 +357,3 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:7F00FF"/>
 
 </div>
-```
