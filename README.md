@@ -68,12 +68,6 @@ My primary interests include backend development, full-stack application develop
 
 </div>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-4B0082?style=for-the-badge"/>
-
-</p>
-
 ---
 
 ## Frontend Development
