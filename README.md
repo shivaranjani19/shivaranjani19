@@ -1,85 +1,361 @@
-<h1 align="center">Hi 👋 I'm Shiva Ranjani</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Java+%7C+HTML+%7C+CSS+%7C+MySQL;Problem+Solver;Building+Real+World+Projects"/>
-</p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Electronics and Communication Engineering Student  
-- 💻 Interested in **Java Full Stack Development**  
-- 🚀 Passionate about building real-world projects  
-- 🌱 Currently learning **Advanced Java**
-
----
-## 🛠️ Tech Stack
-
+````markdown
 <div align="center">
 
-### 👨‍💻 Languages
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A0DAD,100:7F00FF&text=Shivaranjani%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast;Product+Focused+Engineer;Building+Scalable+Applications"/>
 
-### 🌐 Frontend
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/B.E-Electronics%20and%20Communication-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/PSNA%20College%20of%20Engineering-purple?style=for-the-badge)
+![](https://img.shields.io/badge/India-Tamil%20Nadu-indigo?style=for-the-badge)
+![](https://img.shields.io/badge/Madurai-India-blueviolet?style=for-the-badge)
 
-### 🗄️ Databases
+<br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://shivaranjanik.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-### 🛠 Tools
+<a href="https://linkedin.com/in/ShivaranjaniK">
+<img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+<a href="mailto:shivaranjanik1905@gmail.com">
+<img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShivaranjaniK">
+<img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=ShivaranjaniK&style=for-the-badge&color=6A0DAD)
+![](https://img.shields.io/github/followers/ShivaranjaniK?style=for-the-badge&color=7F00FF)
+![](https://img.shields.io/github/stars/ShivaranjaniK?style=for-the-badge&color=4B0082)
 
 </div>
 
 ---
 
-<h2 align="center">🏆 Certifications</h2>
+# About
+
+Aspiring **Software Engineer** and **Java Full Stack Developer** with a strong foundation in software engineering principles, object-oriented programming, backend architecture, databases, and modern web technologies.
+
+Focused on building scalable products with clean code practices and engineering excellence. Passionate about AI, Machine Learning, and intelligent systems while continuously improving problem-solving and product development skills.
+
+### Open To
+
+- Software Engineering Roles
+- Full Stack Development
+- Backend Engineering
+- AI & ML Projects
+- Open Source Contributions
+- Product-Based Companies
+
+---
+
+# Tech Stack
+
+## Languages
 
 <p align="center">
-  <a href="https://www.hackerrank.com/certificates/ae2a31cc6667">
-    <img src="https://img.shields.io/badge/☕%20Java%20Certification-HackerRank-00F7FF?style=for-the-badge&logo=java&logoColor=black"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
+
 </p>
 
+## Frontend
+
 <p align="center">
-  <a href="https://www.hackerrank.com/certificates/08c1994da4fe">
-    <img src="https://img.shields.io/badge/🎨%20CSS%20Certification-HackerRank-FF6F00?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,hibernate"/>
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea,eclipse"/>
+
 </p>
 
 ---
 
-### 📈 Contribution
+# AI / ML Expertise
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaranjani19&theme=tokyonight" />
-</p>
-
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  🔗 <a href="https://www.linkedin.com/in/shivaranjanik">LinkedIn</a> •
-  🧠 <a href="https://www.hackerrank.com/shivaranjanik">HackerRank</a> •
-  💻 <a href="https://leetcode.com/u/ShivaranjaniKaruppasamy/">LeetCode</a> •
-  📧 <a href="shivaranjanik1905@gmail.com">Email</a>
-</p>
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Machine Learning | Intermediate | Supervised Learning, Model Evaluation |
+| Deep Learning | Beginner | Neural Networks |
+| Generative AI | Learning | LLMs, Prompt Engineering |
+| Data Structures | Strong | Problem Solving |
+| Backend AI Integration | Intermediate | REST APIs |
+| Full Stack AI Applications | Intermediate | Product Engineering |
 
 ---
 
-<p align="center">
-  <em> "First, solve the problem. Then, write the code." — John Johnson</em>
-</p>
+# Featured Projects
+
+<details>
+<summary><b>Full Stack E-Commerce Platform</b></summary>
+
+### Enterprise Scale Shopping Application
+
+| Category | Details |
+|-----------|---------|
+| Stack | Java, Spring Boot, React, MySQL |
+| Scale | Multi-user |
+| Performance | Optimized APIs |
+| Security | JWT Authentication |
+| Impact | Complete Commerce System |
+| Repository | Private |
+
+Professional e-commerce platform with role-based authentication, Razorpay integration, order tracking, category filtering and responsive UI.
+
+</details>
+
+<details>
+<summary><b>Library Management System</b></summary>
+
+### Web-Based Management System
+
+| Category | Details |
+|-----------|---------|
+| Stack | Java, Servlet, MySQL |
+| Scale | Academic |
+| Performance | Efficient Queries |
+| Security | Admin Authentication |
+| Impact | Resource Management |
+| Repository | GitHub |
+
+Developed modules for adding, borrowing, returning and deleting books with Apache Tomcat deployment.
+
+</details>
+
+<details>
+<summary><b>Smart Drug Monitoring System</b></summary>
+
+### Smart India Hackathon Project
+
+| Category | Details |
+|-----------|---------|
+| Stack | Web Technologies |
+| Scale | National Competition |
+| Performance | Real-Time Tracking |
+| Security | Controlled Distribution |
+| Impact | Prevent Drug Misuse |
+| Repository | Prototype |
+
+Proposed a digital monitoring platform to track medicine distribution and improve healthcare transparency.
+
+</details>
+
+---
+
+# Experience
+
+## Front-End Developer Intern — Prodigy InfoTech
+
+**June 2025 – July 2025**
+
+Worked on responsive web applications and UI/UX optimization.
+
+### Scope of Work
+
+- Responsive Landing Page
+- Portfolio Website
+- Stopwatch Application
+- Tic-Tac-Toe Game
+- Weather Application using APIs
+
+### Skills
+
+`HTML`
+`CSS`
+`JavaScript`
+`Responsive Design`
+`API Integration`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| LeetCode | 50+ Problems Solved |
+| Smart India Hackathon | Participant (2024,2025) |
+| IEEE Hackathon | Participant |
+| Problem Solving | Continuous Learning |
+| Software Engineering | Product Development Focus |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+![](https://img.shields.io/badge/AWS-Learning-6A0DAD?style=for-the-badge)
+
+### Oracle
+
+![](https://img.shields.io/badge/Oracle-Java-purple?style=for-the-badge)
+
+### NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Courses-indigo?style=for-the-badge)
+
+### Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-blueviolet?style=for-the-badge)
+
+### HackerRank
+
+![](https://img.shields.io/badge/Java-HackerRank-4B0082?style=for-the-badge)
+
+![](https://img.shields.io/badge/CSS-HackerRank-7F00FF?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Premium_Profile-6A0DAD?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7F00FF?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Profile-4B0082?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Profile-indigo?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivaranjaniK&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaranjaniK&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaranjaniK&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivaranjaniK&theme=tokyonight&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaranjaniK&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShivaranjaniK/ShivaranjaniK/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - Microservices
+  - AI & Machine Learning
+  - System Design
+
+Building:
+  - Full Stack E-Commerce Platform
+  - Portfolio Website
+
+Exploring:
+  - Generative AI
+  - LLMs
+  - Cloud Technologies
+
+Open To:
+  - Software Engineering Roles
+  - Internships
+  - Open Source
+  - Product Companies
+````
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:shivaranjanik1905@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/ShivaranjaniK">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ShivaranjaniK">
+<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://shivaranjanik.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-indigo?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Engineering scalable solutions with clean code and continuous innovation."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:7F00FF"/>
+
+</div>
+```
