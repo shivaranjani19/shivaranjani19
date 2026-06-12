@@ -347,9 +347,9 @@ Developed a weather forecasting application using API integration to display:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaranjani19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaranjani19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -389,15 +389,15 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="shivaranjanik">
 <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shivaranjani19">
 <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://shivaranjanik.netlify.app//">
 <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
