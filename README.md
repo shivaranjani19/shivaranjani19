@@ -114,8 +114,11 @@ My primary interests include backend development, full-stack application develop
 
 ## Tools & Platforms
 
+<div align="center">
+  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse"/>
 
+</div>
 ---
 
 # Featured Projects
