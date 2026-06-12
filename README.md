@@ -31,9 +31,9 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6A0DAD)
+![](https://komarev.com/ghpvc/?username=shivaranjani19&style=for-the-badge&color=6A0DAD)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7F00FF)
+![](https://img.shields.io/github/followers/shivaranjani19?style=for-the-badge&color=7F00FF)
 
 </div>
 
