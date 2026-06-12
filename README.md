@@ -88,18 +88,6 @@ My primary interests include backend development, full-stack application develop
 
 </div>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/REST_APIs-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hibernate-6A0DAD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JPA-7F00FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JDBC-4B0082?style=for-the-badge"/>
-
-</p>
-
 ---
 
 ## Database
@@ -119,7 +107,7 @@ My primary interests include backend development, full-stack application develop
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse"/>
 
 </div>
----
+
 
 # Featured Projects
 <details>
