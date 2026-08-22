@@ -295,7 +295,7 @@ Developed a weather forecasting application using API integration to display:
 ---
 
 # Achievements
-# Achievements
+
 
 <div align="center">
 
