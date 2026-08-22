@@ -340,15 +340,6 @@ Developed a weather forecasting application using API integration to display:
 </a>
 
 </div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=shivaranjani19&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=shivaranjani19&theme=tokyonight&hide_border=true"/>
-</div>
 ---
 
 # Current Focus
