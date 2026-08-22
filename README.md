@@ -346,7 +346,6 @@ Developed a weather forecasting application using API integration to display:
 # GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaranjani19&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://streak-stats.demolab.com/?user=shivaranjani19&theme=tokyonight&hide_border=true"/>
 </div>
 
