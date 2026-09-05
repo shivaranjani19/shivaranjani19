@@ -376,7 +376,7 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="shivaranjanik">
+<a href="https://www.linkedin.com/in/shivaranjanik">
 <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
