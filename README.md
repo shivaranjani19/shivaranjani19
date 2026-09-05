@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="shivaranjanik">
+<a href="www.linkedin.com/in/shivaranjanik">
 <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
